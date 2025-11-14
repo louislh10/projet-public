@@ -1,3 +1,12 @@
-# Projet_WWW_sys_emb
-Projet systèmes embarqués, création d'une station météo pour les navires afin de prévenir les catastrophes naturelles.
+# Projet Systèmes Embarqués
+
+Création d'une station météo pour équiper les navires et prévenir les catastrophes naturelles.
+
+## Technologies
+- C++
+- Capteurs environnementaux
+
+## Fonctionnalités
+- Mesure température, humidité et pression
+- Transmission des données en temps réel
 
